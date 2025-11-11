@@ -25,7 +25,7 @@ It classifies the grade as Good, Very Good, or Excellent depending on the mark. 
 2. Open it in your code editor or IDE.
 3. Run the program and enter a grade to test.
 
-####### Contributors (Your Group Members)
+###### Contributors (Your Group Members)
 - Group 1: (Good): 
 - Group 2: (Very Good):  
 - Group 3: (Excellent):  
